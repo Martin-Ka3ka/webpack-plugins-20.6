@@ -18,6 +18,9 @@ class App extends React.Component {
             }, {
                 id: 3,
                 text: 'feed my cat'
+            }, {
+                id: 4,
+                text: 'cleanup in the basement'
             }]
         };
     }
